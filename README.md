@@ -1,9 +1,9 @@
 # mobtoolbox-backend
 
 ## git clone
-- git clone https://github.com/GavinPalmer1984/mobtoolbox-backend.git
-- cd mobtoolbox-backend
-- git submodule update --init
+- `git clone https://github.com/GavinPalmer1984/mobtoolbox-backend.git`
+- `cd mobtoolbox-backend`
+- `git submodule update --init`
 
 ## after git clone
 - install nodejs dependences with `npm install`
