@@ -1,0 +1,27 @@
+{
+  "name": "mobtoolbox-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-basic-auth": "^1.2.0",
+    "password-generator": "^2.3.2",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavinPalmer1984/mobtoolbox-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GavinPalmer1984/mobtoolbox-backend/issues"
+  },
+  "homepage": "https://github.com/GavinPalmer1984/mobtoolbox-backend#readme"
+}

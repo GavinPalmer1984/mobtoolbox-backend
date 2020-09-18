@@ -1,0 +1,3 @@
+[submodule "mobtoolbox"]
+	path = mobtoolbox
+	url = git@github.com:GavinPalmer1984/mobtoolbox.git
