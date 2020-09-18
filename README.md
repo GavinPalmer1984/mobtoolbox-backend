@@ -1,5 +1,11 @@
 # mobtoolbox-backend
 
+## git clone
+- git clone https://github.com/GavinPalmer1984/mobtoolbox-backend.git
+- cd mobtoolbox-backend
+- git submodule update --init
+
+## after git clone
 - install nodejs dependences with `npm install`
 - then start the server on port 1984 with `node . 1984`
 - then go to http://localhost:1984
